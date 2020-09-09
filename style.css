@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+
+#colorValue {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#buttonWrapper {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.colorButton {
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    border: none;
+    background-color: red;
+    border-radius: 50px;
+}
+
+#answer {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#reset {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#reset-button {
+    padding: 10px;
+    background: none;
+    border: 1px solid #000;
+    margin: 10px;
+}

@@ -1,9 +1,7 @@
 # Guess-The-Colour Game
 
-Play the awesome game to refresh your mind<br>
--> Guess the correct colour given in RGB values<br>
--> win the game<br>
-
+In this game the player gets to see one set of RGB values and has to guess the correct colour.<br>
+After resetting the game new set of colours are shown and the game starts again.
 
 <br>
 
@@ -11,6 +9,8 @@ Play the awesome game to refresh your mind<br>
 
 <br>
 <br>
+
+## FEATURES
 
 >Select a colour
 

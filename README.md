@@ -7,7 +7,7 @@ Play the awesome game to refresh your mind<br>
 
 <br>
 
-![Image](Image.png)
+![Image](image.png)
 
 <br>
 <br>

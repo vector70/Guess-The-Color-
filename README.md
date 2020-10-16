@@ -7,7 +7,7 @@ Play the awesome game to refresh your mind<br>
 
 <br>
 
-![App_Image](Image.png)
+![Image](Image.png)
 
 <br>
 <br>
